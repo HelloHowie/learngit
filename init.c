@@ -6,3 +6,4 @@ int main(int argc ,int **argv){
 	print("dev分支工作的内容");
 	return 0;
 }
+create a new branch is quick and simple
