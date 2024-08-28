@@ -10,5 +10,8 @@ int main(int argc ,int **argv){
 
 create a new branch is quick AND simple
 HELLO WORLD
+print("修复bug1\n");
+print("修复bug2\n");
+print("修复bug3\n");
 
 
